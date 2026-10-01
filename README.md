@@ -74,6 +74,20 @@ This project was developed to practice PHP web development, MySQL database integ
 
 GitHub: [NethmaSathsini](https://github.com/NethmaSathsini)
 
-## Homepage
+## Screenshots
+
+### Homepage
 
 ![Velvet Vogue Homepage](Screenshots/homepage.png)
+
+### Products
+
+![Velvet Vogue Products](Screenshots/products.png)
+
+### Login
+
+![Velvet Vogue Login](Screenshots/login.png)
+
+### Shopping Cart
+
+![Velvet Vogue Shopping Cart](Screenshots/cart.png)
