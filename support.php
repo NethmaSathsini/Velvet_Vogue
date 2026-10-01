@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "root";    
-$password = "";        
+$password = "root123";        
 $dbname = "velvet_vogue"; 
 
 $conn = new mysqli($servername, $username, $password, $dbname);
