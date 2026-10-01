@@ -73,3 +73,7 @@ This project was developed to practice PHP web development, MySQL database integ
 **Nethma Sathsini**
 
 GitHub: [NethmaSathsini](https://github.com/NethmaSathsini)
+
+## Homepage
+
+![Velvet Vogue Homepage](Screenshots/homepage.png)
